@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @duynguyen0212
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning arduino
+- 🌱 I’m currently learning python, arduino
 - 📫 Email: ngocduy.nguyen0212@gmail.com
 
 <!---
